@@ -37,6 +37,8 @@ Comecei meus estudos com **Java** ainda na adolescência. Com o tempo, expandi m
 * Sou um desenvolvedor, mas nas horas vagas sou um músico: me divido entre **escrever composições** e tocar meu violão.
 * Gamer de carteirinha, a **série *Souls*** (Dark Souls, Elden Ring, etc.) ocupa boa parte do meu tempo livre!
 
+---
+
 ### 📫 Entre em Contato
 
 <p align="left">
