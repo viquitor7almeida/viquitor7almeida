@@ -39,11 +39,13 @@ Comecei meus estudos com **Java** ainda na adolescência. Com o tempo, expandi m
 
 ### 📫 Entre em Contato
 
+### 📫 Entre em Contato
+
 <p align="left">
-  <a href="[**https://www.linkedin.com/in/jovalmeida/**]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:[**joaoavictor2012@gmail.com**]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jovalmeida/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:joaoavictor2012@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
