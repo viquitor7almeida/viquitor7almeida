@@ -1,12 +1,12 @@
-# Olá! Eu sou o João Victor 👋
+# Hello! I'm João Victor 👋
 
-Sou um **jovem desenvolvedor** apaixonado por tecnologia desde muito cedo. Minha curiosidade em "fuxicar" eletrônicos logo evoluiu para um fascínio pelo **mundo da programação** e do desenvolvimento.
+I am a **young developer** who has been passionate about technology since a very early age. My curiosity for "tinkering" with electronics quickly evolved into a fascination with the **world of programming** and software development.
 
-Comecei meus estudos com **Java** ainda na adolescência. Com o tempo, expandi meu foco para o **JavaScript** para aprimorar minhas habilidades em **Frontend**, e estou sempre explorando outras linguagens e *stacks* por pura vontade de aprender. Meu objetivo é construir soluções robustas, eficientes e de valor.
+I began my **Java** studies during my teens. Over time, I expanded my focus to **JavaScript** to enhance my **Frontend** skills, and I am constantly exploring other languages and stacks out of a pure desire to learn. My goal is to build robust, efficient, and valuable solutions.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-D14836?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java Badge"/>
@@ -32,13 +32,13 @@ Comecei meus estudos com **Java** ainda na adolescência. Com o tempo, expandi m
 
 ---
 
-### 🚀 Mais sobre mim
+### 🚀 More about me
 
-* Sou um desenvolvedor, mas nas horas vagas sou um músico: me divido entre **escrever composições** e tocar meu violão.
-* Gamer de carteirinha, a **série *Souls*** (Dark Souls, Elden Ring, etc.) ocupa boa parte do meu tempo livre!
+* I am a developer, but in my spare time I am a musician: I split my time between **writing compositions** and playing my acoustic guitar.
+* A hardcore gamer, the ***Souls* series** (Dark Souls, Elden Ring, etc.) takes up a good portion of my free time!
 
 ---
 
-### 📫 Entre em Contato
+### 📫 Contact Me
 
 <p align="left"> <a href="https://www.linkedin.com/in/jovalmeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;<a href="mailto:joaoavictor2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> </p>
