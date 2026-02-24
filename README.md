@@ -1,8 +1,10 @@
-# Hello! I'm João Victor 👋
+# Hi! I'm João Victor 👋
 
-I am a **young developer** who has been passionate about technology since a very early age. My curiosity for "tinkering" with electronics quickly evolved into a fascination with the **world of programming** and software development.
+I'm a **young developer passionate about technology** since a very young age. My curiosity about **tinkering with electronics** quickly turned into a fascination with the world of **programming and software development**.
 
-I began my **Java** studies during my teens. Over time, I expanded my focus to **JavaScript** to enhance my **Frontend** skills, and I am constantly exploring other languages and stacks out of a pure desire to learn. My goal is to build robust, efficient, and valuable solutions.
+I started studying **Java** in my teens and, over time, decided to **delve deeper into the language, focusing on backend**. Soon after, I expanded my knowledge to **JavaScript** to improve my **Frontend skills**.
+
+I'm constantly exploring **new technologies** out of a pure desire to **learn**, **grow**, and build **robust and efficient solutions**.
 
 ---
 
