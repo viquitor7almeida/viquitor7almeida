@@ -1,20 +1,22 @@
-# Hi! I'm João Victor 👋
+# Hi! I'm João Victor 🐧
 
-I'm a developer passionate about technology since a very young age. My curiosity about **tinkering with electronics** quickly turned into a fascination with **how things work under the hood**, and eventually **how they break**.
+I'm a developer passionate about technology since a very young age. My curiosity about **tinkering with electronics** quickly turned into a fascination with how things work and how they break.
 
-That curiosity led me to **programming and information security**. I started studying **Java** in my teens, dove deeper into **backend**, and later expanded to **JavaScript** for **Frontend**. Along the way, I kept coming back to security: **how systems are protected, how data is kept safe, how failures happen**.
+That curiosity led me to **programming and information security**. I started studying **Java** in my teens, dove deeper into **backend**, and later expanded to **JavaScript** for **Frontend**. Along the way, I kept coming back to security: **how systems are protected, how data is kept safe, how failures happen** and so many other questions.
 
 I've been applying **security practices to development**, such as authentication and authorization (JWT/OAuth), data encryption and LGPD compliance, while studying **Cyber Security** across different areas, including **Red Team**, **Blue Team**, **Corporate Security** and **AppSec**.
 
 ---
 
-### 🔐 Security Focus
+### 🔐 Security Interests
 
-- Authentication & Authorization (JWT, OAuth)
-- Data Encryption & LGPD Compliance
-- Secure Development Practices
-- Identity & Access Management (IAM)
-- Currently studying: OWASP Top 10, AppSec fundamentals
+- **Application Security (AppSec):** Authentication & Authorization (JWT, OAuth), Secure Development Practices
+- **Identity & Access Management (IAM):** Access Control, Active Directory
+- **Data Protection:** Encryption, LGPD Compliance
+- **Red Team & Blue Team:** currently studying offensive and defensive fundamentals
+- **Corporate Security:** GRC fundamentals, security policies and awareness
+
+Currently studying: OWASP Top 10, AppSec fundamentals
   
 ---
 
